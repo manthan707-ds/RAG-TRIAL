@@ -1,0 +1,15 @@
+# Large generated model
+Project-2-RAG-based-ai/embeddings.joblib
+
+# Sample media files
+Project-2-RAG-based-ai/rag_sample-videos/
+Project-2-RAG-based-ai/rag_all_audios/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.env.*
+!.env.example
